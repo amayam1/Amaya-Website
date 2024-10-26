@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="details.html">My Journey</a> | 
+        <a href="contacts.html">Contact</a>
+    </nav>
+
+    <!-- Contact Page Header -->
+    <header>
+        <h1>Contact Me</h1>
+    </header>
+
+    <!-- Contact Information Section -->
+    <section id="contact-info">
+        <h2>Let's Connect!</h2>
+        <p>I’d love to connect with you with any interests or questions! Feel free to reach out to me through any of the following places:</p>
+        
+        <ul>
+            <li>Email: <a href="mailto:amayamalik04@gmail.com">amayamalik04@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/amaya-malik" target="_blank">https://www.linkedin.com/in/amaya-malik</a></li>
+            <li>GitHub: <a href="https://github.com/amayamalik" target="_blank">github.com/amayamalik</a></li>
+        </ul>
+    </section>
+
+    <!-- Optional Form Section -->
+    <section id="contact-form">
+        <h2>Send Me a Message</h2>
+        <p>If you would like to, you can also send me a message from here:</p>
+        
+        <form action="https://formspree.io/f/yourformid" method="POST">
+            <label for="name">Your Name:</label><br>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Your Email:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+            <input type="submit" value="Send Message">
+        </form>
+        <p>*This form is powered by Amaya Malik and Co.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Amaya Malik. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
