@@ -1,0 +1,15 @@
+Website Link: https://amayam1.github.io/Amaya-Website/index.html
+
+Description of my styling choices:
+
+I designed my website to reflect my personality and interests, using bright colors, cool fonts, and interactive elements. This is an overview of the styling choices I made to make the site feel cool and unique.
+
+First, I wanted the website to feel fun and approachable, so I chose a bright color scheme with a gradient background that transitions from soft pink to peach. This background (using colors #ff9a9e to #fad0c4) creates a warm tone. I also customized the fonts to reflect a balance between professionalism and personality. I used Comic Sans MS for the body text, which gives it a relaxed, friendly vibe, while keeping Georgia for headings to add a slightly more classic look.
+
+To make navigation easy, I added interactive hover effects to different elements. For example, the links in the navigation bar subtly scale up when hovered over, creating a responsive feel as users move between pages. I also included hover animations for images so when the cursor moves over an image, it rotates and scales slightly, adding a fun element. Also, the main heading (h1) changes colors continuously in a smooth animation loop, giving looks to the title of each page and giving the website a lively, animated touch.
+
+I also wanted the contact form to be both functional and visually appealing, so I styled it with a clean white background, rounded corners, and a little shadow. This makes the form stand out without overpowering the rest of the content. When the "Send Message" button is hovered, it changes color to a deeper shade, giving users feedback that their action is being recognized.
+
+To make my lists more exciting, I added a hover effect that changes the background color and scales up each list item when it’s selected. This keeps the list sections visually engaging and helps people focus on each item. Also, I kept the footer simple and clean, using a dark background with light text to create contrast from the rest of the page, giving the website a cool look.
+
+I think that these customizations help create a unique and interactive experience that reflects my style and personality. I wanted the website to feel fun, ufriendly, and engaging.
